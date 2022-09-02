@@ -1,4 +1,4 @@
-package eagerinitialization;
+package creationalpatterns.doublechrcklocking.eagerinitialization;
 
 public class EagerInitialization {
     private static final EagerInitialization INSTANCE=new EagerInitialization();

@@ -1,4 +1,4 @@
-package doublechrcklocking;
+package creationalpatterns.doublechrcklocking;
 
 public class DoubleCheckLocking {
     private static volatile DoubleCheckLocking instance;

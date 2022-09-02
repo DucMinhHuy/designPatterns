@@ -1,4 +1,4 @@
-package threadsafe;
+package creationalpatterns.doublechrcklocking.threadsafe;
 
 public class ThreadSafe {
     private static volatile ThreadSafe instance;

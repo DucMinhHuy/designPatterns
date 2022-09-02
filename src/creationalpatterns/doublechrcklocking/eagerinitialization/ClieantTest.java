@@ -1,4 +1,4 @@
-package eagerinitialization;
+package creationalpatterns.doublechrcklocking.eagerinitialization;
 
 public class ClieantTest {
     public static void main(String[] args) {

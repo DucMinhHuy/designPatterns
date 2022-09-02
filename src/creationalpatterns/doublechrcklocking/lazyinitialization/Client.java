@@ -1,4 +1,4 @@
-package lazyinitialization;
+package creationalpatterns.doublechrcklocking.lazyinitialization;
 
 public class Client {
     public static void main(String[] args) {

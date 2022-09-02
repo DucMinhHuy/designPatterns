@@ -1,4 +1,4 @@
-package lazyinitialization;
+package creationalpatterns.doublechrcklocking.lazyinitialization;
 
 public class LazyInitialization {
     private static LazyInitialization INSTANCE;
